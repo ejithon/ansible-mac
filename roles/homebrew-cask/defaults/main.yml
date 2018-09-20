@@ -31,6 +31,7 @@
       - github-desktop
       - google-chrome
       - google-chrome-canary
+      - google-cloud-sdk
       - google-japanese-ime
       - google-photos-backup
       - iterm2
